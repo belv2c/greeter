@@ -1,8 +1,9 @@
 "use strict";
 
-const french = require('./french.js');
-const italian = require ('./italian.js');
-const spanish = require ('./spanish.js');
+const french = require('./french');
+const italian = require('./italian');
+const spanish = require('./spanish');
+const english = require('./english');
 
 
 
